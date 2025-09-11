@@ -1,0 +1,9 @@
+{
+  "name": "ZenECS.Editor",
+  "references": ["ZenECS"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "defineConstraints": []
+}

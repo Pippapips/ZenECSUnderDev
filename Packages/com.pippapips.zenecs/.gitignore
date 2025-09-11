@@ -1,0 +1,15 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb

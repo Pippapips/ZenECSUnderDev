@@ -1,0 +1,7 @@
+﻿{
+  "name": "ZenECS.ZenjectRx.Editor",
+  "rootNamespace": "ZenECS.Integration.ZenjectRx.Editor",
+  "references": ["ZenECS.Core","ZenECS.Integration","ZenECS.ZenjectRx"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

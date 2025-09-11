@@ -1,0 +1,5 @@
+﻿{
+  "name": "ZenECS.Core",
+  "rootNamespace": "ZenECS.Core",
+  "references": [],
+  "autoReferenced": true }
