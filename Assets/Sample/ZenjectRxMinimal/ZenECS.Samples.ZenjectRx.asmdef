@@ -1,0 +1,6 @@
+{
+  "name": "ZenECS.Samples.ZenjectRx",
+  "rootNamespace": "ZenECS.Samples.ZenjectRx",
+  "references": ["ZenECS.Core","ZenECS.Integration","ZenECS.ZenjectRx","Zenject","UniRx"],
+  "autoReferenced": true
+}
