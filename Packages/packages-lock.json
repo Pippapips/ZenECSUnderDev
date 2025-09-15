@@ -7,12 +7,6 @@
       "dependencies": {},
       "hash": "6baeccf6c544c155497164327cca72f28163a578"
     },
-    "com.pippapips.zenecs": {
-      "version": "file:com.pippapips.zenecs",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.svermeulen.extenject": {
       "version": "https://github.com/svermeulen/Extenject.git?path=UnityProject/Assets/Plugins/Zenject",
       "depth": 0,
